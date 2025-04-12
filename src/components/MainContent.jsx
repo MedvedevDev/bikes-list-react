@@ -1,8 +1,8 @@
 import BikesList from "./BikesList.jsx";
 
-export default function Menu() {
+export default function MainContent() {
     return (
-        <main className='menu'>
+        <main className='main-content'>
             <h2>Our Bikes</h2>
             <BikesList />
         </main>
